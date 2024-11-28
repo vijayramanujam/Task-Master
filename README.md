@@ -36,8 +36,8 @@ The main goal of this project was to develop a better understanding of how **lin
 To run the project, simply clone this repository and compile the C++ code using any standard C++ compiler. For example:
 
 ```bash
-git clone https://github.com/your-username/TaskMaster.git
-cd TaskMaster
-g++ -o taskmaster taskmaster.cpp
+git@github.com:vijayramanujam/Task-Master.git
+cd Task-Master
+g++ -o taskmaster main.cpp
 ./taskmaster
 
