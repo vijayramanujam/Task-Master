@@ -1,4 +1,4 @@
-# TaskMaster - CLI To-Do List
+# TaskMaster - CLI Based Todo 
 
 TaskMaster is a simple command-line to-do list application developed in C++ to help users manage tasks. The project was built with the purpose of gaining a deeper understanding of how linked lists work and how to implement them in practice.
 
